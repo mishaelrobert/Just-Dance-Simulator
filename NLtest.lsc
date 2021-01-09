@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:LSC="http:///schemas/LSC/_gA7bMIMUEeW1kpBT4I0A6w/0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xsi:schemaLocation="http:///schemas/LSC/_gA7bMIMUEeW1kpBT4I0A6w/0 platform:/playgoResource/resources/profiles/LSC.profile.uml#_UXHg8ktjEeOIUs0KoNYPKA">
+  <uml:Model xmi:id="_SVn40FKVEeurOKMOJ7FfeQ" name="JustDance">
+    <packagedElement xmi:type="uml:Collaboration" xmi:id="_ov3w_1KYEeurOKMOJ7FfeQ" name="NLtest"/>
+    <profileApplication xmi:id="_SVn40VKVEeurOKMOJ7FfeQ">
+      <eAnnotations xmi:id="_SVn40lKVEeurOKMOJ7FfeQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="platform:/playgoResource/resources/profiles/visual.profile.uml#_UYHmgktjEeOIUs0KoNYPKA"/>
+      </eAnnotations>
+      <appliedProfile href="platform:/playgoResource/resources/profiles/visual.profile.uml#_UYHmgEtjEeOIUs0KoNYPKA"/>
+    </profileApplication>
+    <profileApplication xmi:id="_SVn401KVEeurOKMOJ7FfeQ">
+      <eAnnotations xmi:id="_SVn41FKVEeurOKMOJ7FfeQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="platform:/playgoResource/resources/profiles/LSC.profile.uml#_UXHg8ktjEeOIUs0KoNYPKA"/>
+      </eAnnotations>
+      <appliedProfile href="platform:/playgoResource/resources/profiles/LSC.profile.uml#_UXHg8EtjEeOIUs0KoNYPKA"/>
+    </profileApplication>
+  </uml:Model>
+  <LSC:Collaboration xmi:id="_owol8FKYEeurOKMOJ7FfeQ" base_Collaboration="_ov3w_1KYEeurOKMOJ7FfeQ" LscId="1610210108879"/>
+</xmi:XMI>
